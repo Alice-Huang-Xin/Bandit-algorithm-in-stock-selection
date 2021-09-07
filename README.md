@@ -21,6 +21,7 @@ Train your algo to maximum long-term rewards
 - 	[Multi-arm Bandits lecture notes](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/Multi-arm%20Bandits.pptx)
 - 	[Introduction to Contextual Multi-bandit Algorithm](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/Introduction%20to%20Contextual%20Multi-bandit%20Algorithm.pdf)
 - 	[Bandit Algorithms for Website Optimization](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/Bandit%20Algorithms%20for%20Website%20Optimization%20%5BWhite%202013-01-03%5D.pdf)
+- 	[Bandit Simulations](https://github.com/Alice-Huang-Xin/bandit_simulations)
 
 ## Dataset
 In this [dataset](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/11%20ETF%20and%20feature%20dataset.xlsx), there are 49 features including 49 US macro-economic indicators such as bond yield, SP500 return, etc. We use past 5d % and last price depending on the data type. All data comes from Bloomberg. And the stock pool consists of 11 sector ETFs. The performance used in calculation of reward is the future 5d return.
