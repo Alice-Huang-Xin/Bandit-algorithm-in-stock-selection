@@ -25,7 +25,5 @@ Train your algo to maximum long-term rewards
 ## Dataset
 In this [dataset](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/11%20ETF%20and%20feature%20dataset.xlsx), there are 49 features including 49 US macro-economic indicators such as bond yield, SP500 return, etc. We use past 5d % and last price depending on the data type. All data comes from Bloomberg. And the stock pool consists of 11 sector ETFs. The performance used in calculation of reward is the future 5d return.
 
-## Code
+## Notebook
 [Disjoint LinUCB algorithm](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/Disjoint%20LinUCB.ipynb)
-
-![myimage](file:///Users/xinhuang/Desktop/1.png)
