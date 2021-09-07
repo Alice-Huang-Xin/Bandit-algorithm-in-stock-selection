@@ -28,4 +28,4 @@ In this [dataset](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-s
 ## Code
 [Disjoint LinUCB algorithm](https://github.com/Alice-Huang-Xin/Bandit-algorithm-in-stock-selection/blob/main/Disjoint%20LinUCB.ipynb)
 
-![myimage](https://media-exp1.licdn.com/dms/image/C5612AQFTs4Ei-m_UAw/article-cover_image-shrink_720_1280/0/1588562680087?e=1636588800&v=beta&t=yYLz0wSURkw8JmR50vfWIvUhibhQ-F4w-YUvtd8Fpdc)
+![myimage](file:///Users/xinhuang/Desktop/1.png)
